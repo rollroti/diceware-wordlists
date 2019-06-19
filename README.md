@@ -2,6 +2,3 @@
 
 
 6 side dice and 20 side dice wordlists
-
-
-Testing
